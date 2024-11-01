@@ -1,0 +1,31 @@
+*{
+    text-align: center;
+}
+.inner{
+    height:140px;
+    width:140px;
+    border:10px solid black;
+    border-radius: 2.5rem;
+    margin: 18px;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.red{
+    background-color: rgb(255, 72, 72);
+}
+.blue{
+    background-color: aqua;
+}
+.green{
+    background-color:greenyellow ;
+}
+.pink{
+    background-color: pink;
+}
+.flash{
+    background-color: white;
+}
